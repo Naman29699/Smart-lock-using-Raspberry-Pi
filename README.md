@@ -7,3 +7,4 @@ After this we will detect faces using Haar Cascade Classifier from OpenCV.
 Then I have listed all the knowledge required about the hardware aspect of this project.
 And then finally I have talked about the future scope of this project as well.
 There is a link to the video in which the lock is working properly in the .txt file.
+YouTube video link : https://youtu.be/thGRXzppUyA
